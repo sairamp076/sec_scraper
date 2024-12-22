@@ -23,16 +23,15 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-vz2v7#u*l3n1&2q*ib0gh#=3@9ez1i=9o^jrgv9!fvmo^ox4+z'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
 
 INSTALLED_APPS = [
     'django.contrib.admin',
-     'whitenoise.runserver_nostatic',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -42,13 +41,8 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -79,16 +73,13 @@ WSGI_APPLICATION = 'sec_scraper.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
-import dj_database_url
-import os
 
-# Use the DATABASE_URL environment variable if available, default to SQLite locally
 DATABASES = {
-    'default': dj_database_url.config(
-        default='sqlite:///' + os.path.join(BASE_DIR, 'db.sqlite3')
-    )
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
 }
-
 
 
 # Password validation
