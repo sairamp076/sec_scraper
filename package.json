@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "vercel-build": "python manage.py migrate --noinput"
+    }
+  }
+  
