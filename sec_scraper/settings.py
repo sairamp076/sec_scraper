@@ -84,11 +84,9 @@ WSGI_APPLICATION = 'sec_scraper.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': ':memory:',  # This creates an in-memory database
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),  # Store database in a file
     }
 }
-
-
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
