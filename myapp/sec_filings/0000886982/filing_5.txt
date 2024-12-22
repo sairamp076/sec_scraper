@@ -1,0 +1,346 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Last-Modified" content="Sat, 20 Feb 2021 02:16:45 GMT" />
+<title>EDGAR Filing Documents for 0001193125-21-049380</title>
+<link rel="stylesheet" type="text/css" href="/include/interactive.css" />
+</head>
+<body style="margin: 0">
+<!-- SEC Web Analytics - For information please visit: https://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+<noscript><div style="color:red; font-weight:bold; text-align:center;">This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</div></noscript>
+<!-- BEGIN BANNER -->
+<div id="headerTop">
+   <div id="Nav"><a href="/index.htm">Home</a> | <a href="/cgi-bin/browse-edgar?action=getcurrent">Latest Filings</a> | <a href="javascript:history.back()">Previous Page</a></div>
+   <div id="seal"><a href="/index.htm"><img src="/images/sealTop.gif" alt="SEC Seal" border="0" /></a></div>
+   <div id="secWordGraphic"><img src="/images/bannerTitle.gif" alt="SEC Banner" /></div>
+</div>
+<div id="headerBottom">
+   <div id="searchHome"><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a></div>
+   <div id="PageTitle">Filing Detail</div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="/index.htm">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+<!-- START FILING DIV -->
+<div id="formDiv">
+   <div id="formHeader">
+      <div id="formName">
+         <strong>Form 10-K</strong> - Annual report [Section 13 and 15(d), not S-K Item 405]: 
+      </div>
+      <div id="secNum">
+         <strong><acronym title="Securities and Exchange Commission">SEC</acronym> Accession <acronym title="Number">No.</acronym></strong> 0001193125-21-049380
+      </div>
+   </div>
+   <div class="formContent">
+   
+      <div class="formGrouping">
+         <div class="infoHead">Filing Date</div>
+         <div class="info">2021-02-22</div>
+         <div class="infoHead">Accepted</div>
+         <div class="info">2021-02-19 21:16:45</div>
+         <div class="infoHead">Documents</div>
+         <div class="info">258</div>
+      </div>
+      <div class="formGrouping">
+         <div class="infoHead">Period of Report</div>
+         <div class="info">2020-12-31</div>
+      </div>
+      <div style="clear:both"></div>
+   </div>
+</div>
+<!-- END FILING DIV -->
+<!-- START DOCUMENT DIV -->
+<div style="margin: 10px 0px 10px 0px; border: solid 1px #3F509D; background-color: #F5F5EB;">
+   <div style="padding: 4px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden" id="seriesDiv">
+      <a href="/cgi-bin/viewer?action=view&amp;cik=886982&amp;accession_number=0001193125-21-049380&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a>
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Document Format Files</p>
+      <table class="tableFile" summary="Document Format Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">1</td>
+            <td scope="row">10-K</td>
+            <td scope="row"><a href="/ix?doc=/Archives/edgar/data/886982/000119312521049380/d39654d10k.htm">d39654d10k.htm</a> &nbsp;&nbsp;<span style="color: green">iXBRL</span></td>
+            <td scope="row">10-K</td>
+            <td scope="row">13902256</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">2</td>
+            <td scope="row">EX-3.3</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex33.htm">d39654dex33.htm</a></td>
+            <td scope="row">EX-3.3</td>
+            <td scope="row">7983</td>
+         </tr>
+         <tr>
+            <td scope="row">3</td>
+            <td scope="row">EX-4.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex41.htm">d39654dex41.htm</a></td>
+            <td scope="row">EX-4.1</td>
+            <td scope="row">675325</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">4</td>
+            <td scope="row">EX-10.21</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1021.htm">d39654dex1021.htm</a></td>
+            <td scope="row">EX-10.21</td>
+            <td scope="row">2453</td>
+         </tr>
+         <tr>
+            <td scope="row">5</td>
+            <td scope="row">EX-10.40</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1040.htm">d39654dex1040.htm</a></td>
+            <td scope="row">EX-10.40</td>
+            <td scope="row">34922</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">6</td>
+            <td scope="row">EX-10.41</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1041.htm">d39654dex1041.htm</a></td>
+            <td scope="row">EX-10.41</td>
+            <td scope="row">110570</td>
+         </tr>
+         <tr>
+            <td scope="row">7</td>
+            <td scope="row">EX-10.42</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1042.htm">d39654dex1042.htm</a></td>
+            <td scope="row">EX-10.42</td>
+            <td scope="row">99730</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">8</td>
+            <td scope="row">EX-10.43</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1043.htm">d39654dex1043.htm</a></td>
+            <td scope="row">EX-10.43</td>
+            <td scope="row">117117</td>
+         </tr>
+         <tr>
+            <td scope="row">9</td>
+            <td scope="row">EX-10.44</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1044.htm">d39654dex1044.htm</a></td>
+            <td scope="row">EX-10.44</td>
+            <td scope="row">120631</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">10</td>
+            <td scope="row">EX-10.45</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1045.htm">d39654dex1045.htm</a></td>
+            <td scope="row">EX-10.45</td>
+            <td scope="row">81502</td>
+         </tr>
+         <tr>
+            <td scope="row">11</td>
+            <td scope="row">EX-10.46</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1046.htm">d39654dex1046.htm</a></td>
+            <td scope="row">EX-10.46</td>
+            <td scope="row">85320</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">12</td>
+            <td scope="row">EX-10.49</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1049.htm">d39654dex1049.htm</a></td>
+            <td scope="row">EX-10.49</td>
+            <td scope="row">67218</td>
+         </tr>
+         <tr>
+            <td scope="row">13</td>
+            <td scope="row">EX-10.50</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1050.htm">d39654dex1050.htm</a></td>
+            <td scope="row">EX-10.50</td>
+            <td scope="row">52876</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">14</td>
+            <td scope="row">EX-10.52</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1052.htm">d39654dex1052.htm</a></td>
+            <td scope="row">EX-10.52</td>
+            <td scope="row">112704</td>
+         </tr>
+         <tr>
+            <td scope="row">15</td>
+            <td scope="row">EX-10.53</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1053.htm">d39654dex1053.htm</a></td>
+            <td scope="row">EX-10.53</td>
+            <td scope="row">99366</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">16</td>
+            <td scope="row">EX-10.55</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex1055.htm">d39654dex1055.htm</a></td>
+            <td scope="row">EX-10.55</td>
+            <td scope="row">115878</td>
+         </tr>
+         <tr>
+            <td scope="row">17</td>
+            <td scope="row">EX-21.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex211.htm">d39654dex211.htm</a></td>
+            <td scope="row">EX-21.1</td>
+            <td scope="row">32115</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">18</td>
+            <td scope="row">EX-23.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex231.htm">d39654dex231.htm</a></td>
+            <td scope="row">EX-23.1</td>
+            <td scope="row">1956</td>
+         </tr>
+         <tr>
+            <td scope="row">19</td>
+            <td scope="row">EX-31.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex311.htm">d39654dex311.htm</a></td>
+            <td scope="row">EX-31.1</td>
+            <td scope="row">24110</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">20</td>
+            <td scope="row">EX-32.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654dex321.htm">d39654dex321.htm</a></td>
+            <td scope="row">EX-32.1</td>
+            <td scope="row">8460</td>
+         </tr>
+         <tr>
+            <td scope="row">26</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/g39654g13m65.jpg">g39654g13m65.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">76701</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">27</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/g39654g57z68.jpg">g39654g57z68.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">43760</td>
+         </tr>
+         <tr>
+            <td scope="row">28</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/g39654g81m87.jpg">g39654g81m87.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">39603</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">29</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/g39654g92a21.jpg">g39654g92a21.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">59575</td>
+         </tr>
+         <tr>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">Complete submission text file</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/0001193125-21-049380.txt">0001193125-21-049380.txt</a></td>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">57537765</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Data Files</p>
+      <table class="tableFile" summary="Data Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">21</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION SCHEMA</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/gs-20201231.xsd">gs-20201231.xsd</a></td>
+            <td scope="row">EX-101.SCH</td>
+            <td scope="row">304232</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">22</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION CALCULATION LINKBASE</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/gs-20201231_cal.xml">gs-20201231_cal.xml</a></td>
+            <td scope="row">EX-101.CAL</td>
+            <td scope="row">142659</td>
+         </tr>
+         <tr>
+            <td scope="row">23</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION DEFINITION LINKBASE</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/gs-20201231_def.xml">gs-20201231_def.xml</a></td>
+            <td scope="row">EX-101.DEF</td>
+            <td scope="row">1226527</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">24</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION LABEL LINKBASE</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/gs-20201231_lab.xml">gs-20201231_lab.xml</a></td>
+            <td scope="row">EX-101.LAB</td>
+            <td scope="row">1684170</td>
+         </tr>
+         <tr>
+            <td scope="row">25</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/gs-20201231_pre.xml">gs-20201231_pre.xml</a></td>
+            <td scope="row">EX-101.PRE</td>
+            <td scope="row">1612091</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">30</td>
+            <td scope="row"><b>EXTRACTED</b> XBRL INSTANCE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/886982/000119312521049380/d39654d10k_htm.xml">d39654d10k_htm.xml</a></td>
+            <td scope="row">XML</td>
+            <td scope="row">15130505</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<!-- END DOCUMENT DIV -->
+<!-- START FILER DIV -->
+<div id="filerDiv">
+   <div class="mailer">Mailing Address
+      <span class="mailerAddress">200 WEST STREET</span>
+      <span class="mailerAddress">
+NEW YORK NY 10282      </span>
+   </div>
+   <div class="mailer">Business Address
+      <span class="mailerAddress">200 WEST STREET</span>
+      <span class="mailerAddress">
+NEW YORK NY 10282      </span>
+      <span class="mailerAddress">212-902-1000</span>
+   </div>
+<div class="companyInfo">
+  <span class="companyName">GOLDMAN SACHS GROUP INC (Filer)
+ <acronym title="Central Index Key">CIK</acronym>: <a href="/cgi-bin/browse-edgar?CIK=0000886982&amp;action=getcompany">0000886982 (see all company filings)</a></span>
+<p class="identInfo"><acronym title="Internal Revenue Service Number">IRS No.</acronym>: <strong>134019460</strong> | State of Incorp.: <strong>DE</strong> | Fiscal Year End: <strong>1231</strong><br />Type: <strong>10-K</strong> | Act: <strong>34</strong> | File No.: <a href="/cgi-bin/browse-edgar?filenum=001-14965&amp;action=getcompany"><strong>001-14965</strong></a> | Film No.: <strong>21658065</strong><br /><acronym title="Standard Industrial Code">SIC</acronym>: <b><a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=6211&amp;owner=include">6211</a></b> Security Brokers, Dealers &amp; Flotation Companies</p>
+</div>
+<div class="clear"></div>
+</div>
+<!-- END FILER DIV -->
+</div>

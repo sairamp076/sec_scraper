@@ -1,0 +1,1524 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Last-Modified" content="Fri, 26 Feb 2016 21:06:12 GMT" />
+<title>EDGAR Filing Documents for 0000040545-16-000145</title>
+<link rel="stylesheet" type="text/css" href="/include/interactive.css" />
+</head>
+<body style="margin: 0">
+<!-- SEC Web Analytics - For information please visit: https://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+<noscript><div style="color:red; font-weight:bold; text-align:center;">This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</div></noscript>
+<!-- BEGIN BANNER -->
+<div id="headerTop">
+   <div id="Nav"><a href="/index.htm">Home</a> | <a href="/cgi-bin/browse-edgar?action=getcurrent">Latest Filings</a> | <a href="javascript:history.back()">Previous Page</a></div>
+   <div id="seal"><a href="/index.htm"><img src="/images/sealTop.gif" alt="SEC Seal" border="0" /></a></div>
+   <div id="secWordGraphic"><img src="/images/bannerTitle.gif" alt="SEC Banner" /></div>
+</div>
+<div id="headerBottom">
+   <div id="searchHome"><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a></div>
+   <div id="PageTitle">Filing Detail</div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="/index.htm">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+<!-- START FILING DIV -->
+<div id="formDiv">
+   <div id="formHeader">
+      <div id="formName">
+         <strong>Form 10-K</strong> - Annual report [Section 13 and 15(d), not S-K Item 405]: 
+      </div>
+      <div id="secNum">
+         <strong><acronym title="Securities and Exchange Commission">SEC</acronym> Accession <acronym title="Number">No.</acronym></strong> 0000040545-16-000145
+      </div>
+   </div>
+   <div class="formContent">
+   
+      <div class="formGrouping">
+         <div class="infoHead">Filing Date</div>
+         <div class="info">2016-02-26</div>
+         <div class="infoHead">Accepted</div>
+         <div class="info">2016-02-26 16:06:12</div>
+         <div class="infoHead">Documents</div>
+         <div class="info">364</div>
+      </div>
+      <div class="formGrouping">
+         <div class="infoHead">Period of Report</div>
+         <div class="info">2015-12-31</div>
+      </div>
+      <div style="clear:both"></div>
+   </div>
+</div>
+<!-- END FILING DIV -->
+<!-- START DOCUMENT DIV -->
+<div style="margin: 10px 0px 10px 0px; border: solid 1px #3F509D; background-color: #F5F5EB;">
+   <div style="padding: 4px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden" id="seriesDiv">
+      <a href="/cgi-bin/viewer?action=view&amp;cik=40545&amp;accession_number=0000040545-16-000145&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a>
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Document Format Files</p>
+      <table class="tableFile" summary="Document Format Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">1</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015.htm">ge10k2015.htm</a></td>
+            <td scope="row">10-K</td>
+            <td scope="row">5292974</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">2</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex4i.htm">ge10k2015ex4i.htm</a></td>
+            <td scope="row">EX-4.I</td>
+            <td scope="row">52049</td>
+         </tr>
+         <tr>
+            <td scope="row">3</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex4k.htm">ge10k2015ex4k.htm</a></td>
+            <td scope="row">EX-4.K</td>
+            <td scope="row">6795</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">4</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex10.htm">ge10k2015ex10.htm</a></td>
+            <td scope="row">EX-10.F</td>
+            <td scope="row">216288</td>
+         </tr>
+         <tr>
+            <td scope="row">5</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex12a.htm">ge10k2015ex12a.htm</a></td>
+            <td scope="row">EX-12.A</td>
+            <td scope="row">45012</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">6</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex12b.htm">ge10k2015ex12b.htm</a></td>
+            <td scope="row">EX-12.B</td>
+            <td scope="row">71148</td>
+         </tr>
+         <tr>
+            <td scope="row">7</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex21.htm">ge10k2015ex21.htm</a></td>
+            <td scope="row">EX-21</td>
+            <td scope="row">100889</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">8</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex23.htm">ge10k2015ex23.htm</a></td>
+            <td scope="row">EX-23</td>
+            <td scope="row">3615</td>
+         </tr>
+         <tr>
+            <td scope="row">9</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex24.htm">ge10k2015ex24.htm</a></td>
+            <td scope="row">EX-24</td>
+            <td scope="row">23817</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">10</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex31a.htm">ge10k2015ex31a.htm</a></td>
+            <td scope="row">EX-31.A</td>
+            <td scope="row">13095</td>
+         </tr>
+         <tr>
+            <td scope="row">11</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex31b.htm">ge10k2015ex31b.htm</a></td>
+            <td scope="row">EX-31.B</td>
+            <td scope="row">12920</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">12</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex32.htm">ge10k2015ex32.htm</a></td>
+            <td scope="row">EX-32</td>
+            <td scope="row">6564</td>
+         </tr>
+         <tr>
+            <td scope="row">13</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge10k2015ex99c.htm">ge10k2015ex99c.htm</a></td>
+            <td scope="row">EX-99.C</td>
+            <td scope="row">123787</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">20</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image0.jpg">image0.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">106150</td>
+         </tr>
+         <tr>
+            <td scope="row">21</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image1.jpg">image1.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">233412</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">22</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image2.jpg">image2.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">270756</td>
+         </tr>
+         <tr>
+            <td scope="row">23</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image3.jpg">image3.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">183016</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">24</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image4.jpg">image4.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">193114</td>
+         </tr>
+         <tr>
+            <td scope="row">25</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image5.jpg">image5.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">192514</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">26</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image6.jpg">image6.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">231617</td>
+         </tr>
+         <tr>
+            <td scope="row">27</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image7.jpg">image7.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">225660</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">28</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image8.jpg">image8.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">249783</td>
+         </tr>
+         <tr>
+            <td scope="row">29</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image9.jpg">image9.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">210010</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">30</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image10.jpg">image10.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">213329</td>
+         </tr>
+         <tr>
+            <td scope="row">31</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image11.jpg">image11.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">221070</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">32</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image12.jpg">image12.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">228261</td>
+         </tr>
+         <tr>
+            <td scope="row">33</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image13.jpg">image13.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">269726</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">34</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image14.jpg">image14.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">225478</td>
+         </tr>
+         <tr>
+            <td scope="row">35</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image15.jpg">image15.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">210989</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">36</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image16.jpg">image16.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">205258</td>
+         </tr>
+         <tr>
+            <td scope="row">37</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image17.jpg">image17.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">116199</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">38</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00018.jpg">image00018.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2318</td>
+         </tr>
+         <tr>
+            <td scope="row">39</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image19.jpg">image19.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">65671</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">40</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image20.jpg">image20.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">75801</td>
+         </tr>
+         <tr>
+            <td scope="row">41</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image21.jpg">image21.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">53065</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">42</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image22.jpg">image22.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">43960</td>
+         </tr>
+         <tr>
+            <td scope="row">43</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image23.jpg">image23.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">66816</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">44</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image24.jpg">image24.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">1255</td>
+         </tr>
+         <tr>
+            <td scope="row">45</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image25.jpg">image25.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">50513</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">46</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image26.jpg">image26.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">61275</td>
+         </tr>
+         <tr>
+            <td scope="row">47</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image27.jpg">image27.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">63837</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">48</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image28.jpg">image28.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">14097</td>
+         </tr>
+         <tr>
+            <td scope="row">49</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image29.jpg">image29.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">11431</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">50</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image30.jpg">image30.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">13106</td>
+         </tr>
+         <tr>
+            <td scope="row">51</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image31.jpg">image31.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10517</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">52</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image32.jpg">image32.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9887</td>
+         </tr>
+         <tr>
+            <td scope="row">53</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image33.jpg">image33.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12475</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">54</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image34.jpg">image34.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8007</td>
+         </tr>
+         <tr>
+            <td scope="row">55</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image35.jpg">image35.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8278</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">56</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image36.jpg">image36.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8165</td>
+         </tr>
+         <tr>
+            <td scope="row">57</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image37.jpg">image37.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">43711</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">58</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image38.jpg">image38.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">54070</td>
+         </tr>
+         <tr>
+            <td scope="row">59</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image39.jpg">image39.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">15711</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">60</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image40.jpg">image40.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">25797</td>
+         </tr>
+         <tr>
+            <td scope="row">61</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00041.jpg">image00041.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2835</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">62</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image42.jpg">image42.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">62016</td>
+         </tr>
+         <tr>
+            <td scope="row">63</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image43.jpg">image43.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">75228</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">64</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00044.jpg">image00044.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">1639</td>
+         </tr>
+         <tr>
+            <td scope="row">65</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image45.jpg">image45.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">51684</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">66</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image46.jpg">image46.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">1158</td>
+         </tr>
+         <tr>
+            <td scope="row">67</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image47.jpg">image47.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10767</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">68</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image48.jpg">image48.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">11018</td>
+         </tr>
+         <tr>
+            <td scope="row">69</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image49.jpg">image49.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10236</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">70</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image50.jpg">image50.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8671</td>
+         </tr>
+         <tr>
+            <td scope="row">71</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image51.jpg">image51.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9245</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">72</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image52.jpg">image52.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12165</td>
+         </tr>
+         <tr>
+            <td scope="row">73</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image53.jpg">image53.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9209</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">74</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image54.jpg">image54.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">61963</td>
+         </tr>
+         <tr>
+            <td scope="row">75</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image55.jpg">image55.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">174695</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">76</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image56.jpg">image56.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2873</td>
+         </tr>
+         <tr>
+            <td scope="row">77</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image58.jpg">image58.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12489</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">78</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image59.jpg">image59.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8960</td>
+         </tr>
+         <tr>
+            <td scope="row">79</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image60.jpg">image60.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">16218</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">80</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image61.jpg">image61.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9480</td>
+         </tr>
+         <tr>
+            <td scope="row">81</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image62.jpg">image62.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9910</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">82</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image63.jpg">image63.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10330</td>
+         </tr>
+         <tr>
+            <td scope="row">83</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image64.jpg">image64.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">13213</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">84</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image65.jpg">image65.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8353</td>
+         </tr>
+         <tr>
+            <td scope="row">85</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image66.jpg">image66.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8959</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">86</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image67.jpg">image67.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">43660</td>
+         </tr>
+         <tr>
+            <td scope="row">87</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image68.jpg">image68.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">177803</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">88</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image69.jpg">image69.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2598</td>
+         </tr>
+         <tr>
+            <td scope="row">89</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image71.jpg">image71.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12223</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">90</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image72.jpg">image72.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8301</td>
+         </tr>
+         <tr>
+            <td scope="row">91</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image73.jpg">image73.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10345</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">92</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image74.jpg">image74.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9024</td>
+         </tr>
+         <tr>
+            <td scope="row">93</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image75.jpg">image75.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9320</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">94</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image76.jpg">image76.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">11294</td>
+         </tr>
+         <tr>
+            <td scope="row">95</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image77.jpg">image77.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">11820</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">96</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image78.jpg">image78.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">7588</td>
+         </tr>
+         <tr>
+            <td scope="row">97</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image79.jpg">image79.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9555</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">98</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image80.jpg">image80.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">44376</td>
+         </tr>
+         <tr>
+            <td scope="row">99</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image81.jpg">image81.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2865</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">100</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image83.jpg">image83.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">14365</td>
+         </tr>
+         <tr>
+            <td scope="row">101</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image84.jpg">image84.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9371</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">102</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image85.jpg">image85.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">18943</td>
+         </tr>
+         <tr>
+            <td scope="row">103</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image86.jpg">image86.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9148</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">104</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image87.jpg">image87.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9133</td>
+         </tr>
+         <tr>
+            <td scope="row">105</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image88.jpg">image88.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12129</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">106</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image89.jpg">image89.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8131</td>
+         </tr>
+         <tr>
+            <td scope="row">107</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image90.jpg">image90.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9810</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">108</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image91.jpg">image91.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">75836</td>
+         </tr>
+         <tr>
+            <td scope="row">109</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image92.jpg">image92.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">114473</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">110</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image93.jpg">image93.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2740</td>
+         </tr>
+         <tr>
+            <td scope="row">111</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image96.jpg">image96.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12596</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">112</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image97.jpg">image97.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9369</td>
+         </tr>
+         <tr>
+            <td scope="row">113</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image98.jpg">image98.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12275</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">114</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image99.jpg">image99.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9149</td>
+         </tr>
+         <tr>
+            <td scope="row">115</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image100.jpg">image100.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9596</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">116</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image101.jpg">image101.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">11670</td>
+         </tr>
+         <tr>
+            <td scope="row">117</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image102.jpg">image102.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">6998</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">118</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image103.jpg">image103.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8271</td>
+         </tr>
+         <tr>
+            <td scope="row">119</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image104.jpg">image104.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">69293</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">120</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image105.jpg">image105.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">120832</td>
+         </tr>
+         <tr>
+            <td scope="row">121</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image106.jpg">image106.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2742</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">122</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image108.jpg">image108.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">13477</td>
+         </tr>
+         <tr>
+            <td scope="row">123</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image109.jpg">image109.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8561</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">124</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image110.jpg">image110.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12597</td>
+         </tr>
+         <tr>
+            <td scope="row">125</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image111.jpg">image111.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9548</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">126</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image112.jpg">image112.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9396</td>
+         </tr>
+         <tr>
+            <td scope="row">127</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image113.jpg">image113.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">21616</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">128</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image114.jpg">image114.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12012</td>
+         </tr>
+         <tr>
+            <td scope="row">129</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image115.jpg">image115.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">7254</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">130</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image116.jpg">image116.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9193</td>
+         </tr>
+         <tr>
+            <td scope="row">131</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image117.jpg">image117.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">60920</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">132</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image118.jpg">image118.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">108509</td>
+         </tr>
+         <tr>
+            <td scope="row">133</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image119.jpg">image119.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2719</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">134</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image122.jpg">image122.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12699</td>
+         </tr>
+         <tr>
+            <td scope="row">135</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image123.jpg">image123.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9863</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">136</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image124.jpg">image124.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10949</td>
+         </tr>
+         <tr>
+            <td scope="row">137</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image125.jpg">image125.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9001</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">138</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image126.jpg">image126.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9423</td>
+         </tr>
+         <tr>
+            <td scope="row">139</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image127.jpg">image127.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">13008</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">140</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image128.jpg">image128.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">7277</td>
+         </tr>
+         <tr>
+            <td scope="row">141</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image129.jpg">image129.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9027</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">142</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image130.jpg">image130.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">52441</td>
+         </tr>
+         <tr>
+            <td scope="row">143</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image131.jpg">image131.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">123417</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">144</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image132.jpg">image132.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2740</td>
+         </tr>
+         <tr>
+            <td scope="row">145</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image135.jpg">image135.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12852</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">146</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image136.jpg">image136.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">7994</td>
+         </tr>
+         <tr>
+            <td scope="row">147</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image137.jpg">image137.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">11088</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">148</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image138.jpg">image138.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9710</td>
+         </tr>
+         <tr>
+            <td scope="row">149</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image139.jpg">image139.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9433</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">150</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image140.jpg">image140.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9472</td>
+         </tr>
+         <tr>
+            <td scope="row">151</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image141.jpg">image141.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">11815</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">152</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image142.jpg">image142.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">7900</td>
+         </tr>
+         <tr>
+            <td scope="row">153</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image143.jpg">image143.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8207</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">154</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image144.jpg">image144.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">1277</td>
+         </tr>
+         <tr>
+            <td scope="row">155</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image145.jpg">image145.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">153801</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">156</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image146.jpg">image146.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">164323</td>
+         </tr>
+         <tr>
+            <td scope="row">157</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image147.jpg">image147.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2893</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">158</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image150.jpg">image150.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">13414</td>
+         </tr>
+         <tr>
+            <td scope="row">159</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image151.jpg">image151.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8873</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">160</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image152.jpg">image152.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">11092</td>
+         </tr>
+         <tr>
+            <td scope="row">161</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image153.jpg">image153.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">6937</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">162</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image154.jpg">image154.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8727</td>
+         </tr>
+         <tr>
+            <td scope="row">163</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image155.jpg">image155.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">63366</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">164</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image156.jpg">image156.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">124942</td>
+         </tr>
+         <tr>
+            <td scope="row">165</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image157.jpg">image157.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">3268</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">166</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image158.jpg">image158.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">13860</td>
+         </tr>
+         <tr>
+            <td scope="row">167</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image159.jpg">image159.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">17602</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">168</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image160.jpg">image160.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8067</td>
+         </tr>
+         <tr>
+            <td scope="row">169</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image161.jpg">image161.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">17393</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">170</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image162.jpg">image162.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">12140</td>
+         </tr>
+         <tr>
+            <td scope="row">171</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image163.jpg">image163.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9907</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">172</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image164.jpg">image164.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9109</td>
+         </tr>
+         <tr>
+            <td scope="row">173</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image165.jpg">image165.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8929</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">174</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image166.jpg">image166.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9585</td>
+         </tr>
+         <tr>
+            <td scope="row">175</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image167.jpg">image167.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9223</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">176</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image168.jpg">image168.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9409</td>
+         </tr>
+         <tr>
+            <td scope="row">177</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image169.jpg">image169.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9031</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">178</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image170.jpg">image170.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10624</td>
+         </tr>
+         <tr>
+            <td scope="row">179</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image171.jpg">image171.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8564</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">180</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image172.jpg">image172.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10948</td>
+         </tr>
+         <tr>
+            <td scope="row">181</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image173.jpg">image173.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">8798</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">182</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image174.jpg">image174.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">5677</td>
+         </tr>
+         <tr>
+            <td scope="row">183</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image175.jpg">image175.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">6102</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">184</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image176.jpg">image176.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">6317</td>
+         </tr>
+         <tr>
+            <td scope="row">185</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image177.jpg">image177.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">5394</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">186</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image178.jpg">image178.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">6308</td>
+         </tr>
+         <tr>
+            <td scope="row">187</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image180.jpg">image180.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">10745</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">188</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image181.jpg">image181.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9049</td>
+         </tr>
+         <tr>
+            <td scope="row">189</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image182.jpg">image182.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">9296</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">190</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image183.jpg">image183.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">185873</td>
+         </tr>
+         <tr>
+            <td scope="row">191</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image184.jpg">image184.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">67345</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">192</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00185.jpg">image00185.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2234</td>
+         </tr>
+         <tr>
+            <td scope="row">193</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00186.jpg">image00186.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2989</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">194</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00187.jpg">image00187.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2286</td>
+         </tr>
+         <tr>
+            <td scope="row">195</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00188.jpg">image00188.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">1912</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">196</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00189.jpg">image00189.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2666</td>
+         </tr>
+         <tr>
+            <td scope="row">197</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00190.jpg">image00190.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">2635</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">198</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/image00191.jpg">image00191.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">6613</td>
+         </tr>
+         <tr>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">Complete submission text file</td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/0000040545-16-000145.txt">0000040545-16-000145.txt</a></td>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">49859981</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Data Files</p>
+      <table class="tableFile" summary="Data Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">14</td>
+            <td scope="row">XBRL INSTANCE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge-20151231.xml">ge-20151231.xml</a></td>
+            <td scope="row">EX-101.INS</td>
+            <td scope="row">11641379</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">15</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION SCHEMA</td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge-20151231.xsd">ge-20151231.xsd</a></td>
+            <td scope="row">EX-101.SCH</td>
+            <td scope="row">202631</td>
+         </tr>
+         <tr>
+            <td scope="row">16</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION CALCULATION LINKBASE</td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge-20151231_cal.xml">ge-20151231_cal.xml</a></td>
+            <td scope="row">EX-101.CAL</td>
+            <td scope="row">135037</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">17</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION DEFINITION LINKBASE</td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge-20151231_def.xml">ge-20151231_def.xml</a></td>
+            <td scope="row">EX-101.DEF</td>
+            <td scope="row">1688834</td>
+         </tr>
+         <tr>
+            <td scope="row">18</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION LABEL LINKBASE</td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge-20151231_lab.xml">ge-20151231_lab.xml</a></td>
+            <td scope="row">EX-101.LAB</td>
+            <td scope="row">1781046</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">19</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE</td>
+            <td scope="row"><a href="/Archives/edgar/data/40545/000004054516000145/ge-20151231_pre.xml">ge-20151231_pre.xml</a></td>
+            <td scope="row">EX-101.PRE</td>
+            <td scope="row">2024024</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<!-- END DOCUMENT DIV -->
+<!-- START FILER DIV -->
+<div id="filerDiv">
+   <div class="mailer">Mailing Address
+      <span class="mailerAddress">3135 EASTON TURNPIKE</span>
+      <span class="mailerAddress">W3F</span>
+      <span class="mailerAddress">
+FAIRFIELD CT 06828      </span>
+   </div>
+   <div class="mailer">Business Address
+      <span class="mailerAddress">3135 EASTON TURNPIKE</span>
+      <span class="mailerAddress">W3F</span>
+      <span class="mailerAddress">
+FAIRFIELD CT 06828      </span>
+      <span class="mailerAddress">203-373-2211</span>
+   </div>
+<div class="companyInfo">
+  <span class="companyName">GENERAL ELECTRIC CO (Filer)
+ <acronym title="Central Index Key">CIK</acronym>: <a href="/cgi-bin/browse-edgar?CIK=0000040545&amp;action=getcompany">0000040545 (see all company filings)</a></span>
+<p class="identInfo"><acronym title="Internal Revenue Service Number">IRS No.</acronym>: <strong>140689340</strong> | State of Incorp.: <strong>NY</strong> | Fiscal Year End: <strong>1231</strong><br />Type: <strong>10-K</strong> | Act: <strong>34</strong> | File No.: <a href="/cgi-bin/browse-edgar?filenum=001-00035&amp;action=getcompany"><strong>001-00035</strong></a> | Film No.: <strong>161461695</strong><br /><acronym title="Standard Industrial Code">SIC</acronym>: <b><a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=3600&amp;owner=include">3600</a></b> Electronic &amp; Other Electrical Equipment (No Computer Equip)</p>
+</div>
+<div class="clear"></div>
+</div>
+<!-- END FILER DIV -->
+</div>

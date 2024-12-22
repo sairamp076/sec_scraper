@@ -1,0 +1,283 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Last-Modified" content="Fri, 17 Mar 2023 21:02:59 GMT" />
+<title>EDGAR Filing Documents for 0000104169-23-000020</title>
+<link rel="stylesheet" type="text/css" href="/include/interactive.css" />
+</head>
+<body style="margin: 0">
+<!-- SEC Web Analytics - For information please visit: https://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+<noscript><div style="color:red; font-weight:bold; text-align:center;">This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</div></noscript>
+<!-- BEGIN BANNER -->
+<div id="headerTop">
+   <div id="Nav"><a href="/index.htm">Home</a> | <a href="/cgi-bin/browse-edgar?action=getcurrent">Latest Filings</a> | <a href="javascript:history.back()">Previous Page</a></div>
+   <div id="seal"><a href="/index.htm"><img src="/images/sealTop.gif" alt="SEC Seal" border="0" /></a></div>
+   <div id="secWordGraphic"><img src="/images/bannerTitle.gif" alt="SEC Banner" /></div>
+</div>
+<div id="headerBottom">
+   <div id="searchHome"><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a></div>
+   <div id="PageTitle">Filing Detail</div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="/index.htm">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+<!-- START FILING DIV -->
+<div id="formDiv">
+   <div id="formHeader">
+      <div id="formName">
+         <strong>Form 10-K</strong> - Annual report [Section 13 and 15(d), not S-K Item 405]: 
+      </div>
+      <div id="secNum">
+         <strong><acronym title="Securities and Exchange Commission">SEC</acronym> Accession <acronym title="Number">No.</acronym></strong> 0000104169-23-000020
+      </div>
+   </div>
+   <div class="formContent">
+   
+      <div class="formGrouping">
+         <div class="infoHead">Filing Date</div>
+         <div class="info">2023-03-17</div>
+         <div class="infoHead">Accepted</div>
+         <div class="info">2023-03-17 17:02:59</div>
+         <div class="infoHead">Documents</div>
+         <div class="info">104</div>
+      </div>
+      <div class="formGrouping">
+         <div class="infoHead">Period of Report</div>
+         <div class="info">2023-01-31</div>
+      </div>
+      <div style="clear:both"></div>
+   </div>
+</div>
+<!-- END FILING DIV -->
+<!-- START DOCUMENT DIV -->
+<div style="margin: 10px 0px 10px 0px; border: solid 1px #3F509D; background-color: #F5F5EB;">
+   <div style="padding: 4px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden" id="seriesDiv">
+      <a href="/cgi-bin/viewer?action=view&amp;cik=104169&amp;accession_number=0000104169-23-000020&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a>
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Document Format Files</p>
+      <table class="tableFile" summary="Document Format Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">1</td>
+            <td scope="row">10-K</td>
+            <td scope="row"><a href="/ix?doc=/Archives/edgar/data/104169/000010416923000020/wmt-20230131.htm">wmt-20230131.htm</a> &nbsp;&nbsp;<span style="color: green">iXBRL</span></td>
+            <td scope="row">10-K</td>
+            <td scope="row">2594628</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">2</td>
+            <td scope="row">EX-4.8</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit48fy23.htm">wmtexhibit48fy23.htm</a></td>
+            <td scope="row">EX-4.8</td>
+            <td scope="row">94729</td>
+         </tr>
+         <tr>
+            <td scope="row">3</td>
+            <td scope="row">EX-10.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit101fy23.htm">wmtexhibit101fy23.htm</a></td>
+            <td scope="row">EX-10.1</td>
+            <td scope="row">254307</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">4</td>
+            <td scope="row">EX-10.5</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit105fy23.htm">wmtexhibit105fy23.htm</a></td>
+            <td scope="row">EX-10.5</td>
+            <td scope="row">115642</td>
+         </tr>
+         <tr>
+            <td scope="row">5</td>
+            <td scope="row">EX-10.7(A)</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit107afy23.htm">wmtexhibit107afy23.htm</a></td>
+            <td scope="row">EX-10.7(A)</td>
+            <td scope="row">12337</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">6</td>
+            <td scope="row">EX-10.10</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit1010fy23.htm">wmtexhibit1010fy23.htm</a></td>
+            <td scope="row">EX-10.10</td>
+            <td scope="row">374362</td>
+         </tr>
+         <tr>
+            <td scope="row">7</td>
+            <td scope="row">EX-21</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit21fy23.htm">wmtexhibit21fy23.htm</a></td>
+            <td scope="row">EX-21</td>
+            <td scope="row">20941</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">8</td>
+            <td scope="row">EX-23</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit23fy23.htm">wmtexhibit23fy23.htm</a></td>
+            <td scope="row">EX-23</td>
+            <td scope="row">15553</td>
+         </tr>
+         <tr>
+            <td scope="row">9</td>
+            <td scope="row">EX-31.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit311fy23q4.htm">wmtexhibit311fy23q4.htm</a></td>
+            <td scope="row">EX-31.1</td>
+            <td scope="row">8128</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">10</td>
+            <td scope="row">EX-31.2</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit312fy23q4.htm">wmtexhibit312fy23q4.htm</a></td>
+            <td scope="row">EX-31.2</td>
+            <td scope="row">8137</td>
+         </tr>
+         <tr>
+            <td scope="row">11</td>
+            <td scope="row">EX-32.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit321fy23q4.htm">wmtexhibit321fy23q4.htm</a></td>
+            <td scope="row">EX-32.1</td>
+            <td scope="row">4635</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">12</td>
+            <td scope="row">EX-32.2</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit322fy23q4.htm">wmtexhibit322fy23q4.htm</a></td>
+            <td scope="row">EX-32.2</td>
+            <td scope="row">4659</td>
+         </tr>
+         <tr>
+            <td scope="row">13</td>
+            <td scope="row">EX-99.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmtexhibit991fy23q4.htm">wmtexhibit991fy23q4.htm</a></td>
+            <td scope="row">EX-99.1</td>
+            <td scope="row">43834</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">19</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmt-20230131_g1.jpg">wmt-20230131_g1.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">118455</td>
+         </tr>
+         <tr>
+            <td scope="row">20</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmt-20230131_g2.jpg">wmt-20230131_g2.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">82185</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">&nbsp;</td>
+            <td scope="row">Complete submission text file</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/0000104169-23-000020.txt">0000104169-23-000020.txt</a></td>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">13431083</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Data Files</p>
+      <table class="tableFile" summary="Data Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">14</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmt-20230131.xsd">wmt-20230131.xsd</a></td>
+            <td scope="row">EX-101.SCH</td>
+            <td scope="row">68036</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">15</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmt-20230131_cal.xml">wmt-20230131_cal.xml</a></td>
+            <td scope="row">EX-101.CAL</td>
+            <td scope="row">108522</td>
+         </tr>
+         <tr>
+            <td scope="row">16</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmt-20230131_def.xml">wmt-20230131_def.xml</a></td>
+            <td scope="row">EX-101.DEF</td>
+            <td scope="row">364408</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">17</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmt-20230131_lab.xml">wmt-20230131_lab.xml</a></td>
+            <td scope="row">EX-101.LAB</td>
+            <td scope="row">876083</td>
+         </tr>
+         <tr>
+            <td scope="row">18</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmt-20230131_pre.xml">wmt-20230131_pre.xml</a></td>
+            <td scope="row">EX-101.PRE</td>
+            <td scope="row">591717</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">98</td>
+            <td scope="row"><b>EXTRACTED</b> XBRL INSTANCE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/104169/000010416923000020/wmt-20230131_htm.xml">wmt-20230131_htm.xml</a></td>
+            <td scope="row">XML</td>
+            <td scope="row">2075260</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<!-- END DOCUMENT DIV -->
+<!-- START FILER DIV -->
+<div id="filerDiv">
+   <div class="mailer">Mailing Address
+      <span class="mailerAddress">702 SOUTHWEST 8TH STREET</span>
+      <span class="mailerAddress">
+BENTONVILLE AR 72716      </span>
+   </div>
+   <div class="mailer">Business Address
+      <span class="mailerAddress">702 SOUTHWEST 8TH ST</span>
+      <span class="mailerAddress">
+BENTONVILLE AR 72716      </span>
+      <span class="mailerAddress">5012734000</span>
+   </div>
+<div class="companyInfo">
+  <span class="companyName">Walmart Inc. (Filer)
+ <acronym title="Central Index Key">CIK</acronym>: <a href="/cgi-bin/browse-edgar?CIK=0000104169&amp;action=getcompany">0000104169 (see all company filings)</a></span>
+<p class="identInfo"><acronym title="Internal Revenue Service Number">IRS No.</acronym>: <strong>710415188</strong> | State of Incorp.: <strong>DE</strong> | Fiscal Year End: <strong>0131</strong><br />Type: <strong>10-K</strong> | Act: <strong>34</strong> | File No.: <a href="/cgi-bin/browse-edgar?filenum=001-06991&amp;action=getcompany"><strong>001-06991</strong></a> | Film No.: <strong>23743600</strong><br /><acronym title="Standard Industrial Code">SIC</acronym>: <b><a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=5331&amp;owner=include">5331</a></b> Retail-Variety Stores</p>
+</div>
+<div class="clear"></div>
+</div>
+<!-- END FILER DIV -->
+</div>

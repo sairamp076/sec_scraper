@@ -1,0 +1,1480 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Last-Modified" content="Mon, 26 Feb 2024 11:41:57 GMT" />
+<title>EDGAR Filing Documents for 0000051143-24-000012</title>
+<link rel="stylesheet" type="text/css" href="/include/interactive.css" />
+</head>
+<body style="margin: 0">
+<!-- SEC Web Analytics - For information please visit: https://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+<noscript><div style="color:red; font-weight:bold; text-align:center;">This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</div></noscript>
+<!-- BEGIN BANNER -->
+<div id="headerTop">
+   <div id="Nav"><a href="/index.htm">Home</a> | <a href="/cgi-bin/browse-edgar?action=getcurrent">Latest Filings</a> | <a href="javascript:history.back()">Previous Page</a></div>
+   <div id="seal"><a href="/index.htm"><img src="/images/sealTop.gif" alt="SEC Seal" border="0" /></a></div>
+   <div id="secWordGraphic"><img src="/images/bannerTitle.gif" alt="SEC Banner" /></div>
+</div>
+<div id="headerBottom">
+   <div id="searchHome"><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a></div>
+   <div id="PageTitle">Filing Detail</div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="/index.htm">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+<!-- START FILING DIV -->
+<div id="formDiv">
+   <div id="formHeader">
+      <div id="formName">
+         <strong>Form 10-K</strong> - Annual report [Section 13 and 15(d), not S-K Item 405]: 
+      </div>
+      <div id="secNum">
+         <strong><acronym title="Securities and Exchange Commission">SEC</acronym> Accession <acronym title="Number">No.</acronym></strong> 0000051143-24-000012
+      </div>
+   </div>
+   <div class="formContent">
+   
+      <div class="formGrouping">
+         <div class="infoHead">Filing Date</div>
+         <div class="info">2024-02-26</div>
+         <div class="infoHead">Accepted</div>
+         <div class="info">2024-02-26 06:41:57</div>
+         <div class="infoHead">Documents</div>
+         <div class="info">376</div>
+      </div>
+      <div class="formGrouping">
+         <div class="infoHead">Period of Report</div>
+         <div class="info">2023-12-31</div>
+      </div>
+      <div style="clear:both"></div>
+   </div>
+</div>
+<!-- END FILING DIV -->
+<!-- START DOCUMENT DIV -->
+<div style="margin: 10px 0px 10px 0px; border: solid 1px #3F509D; background-color: #F5F5EB;">
+   <div style="padding: 4px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden" id="seriesDiv">
+      <a href="/cgi-bin/viewer?action=view&amp;cik=51143&amp;accession_number=0000051143-24-000012&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a>
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Document Format Files</p>
+      <table class="tableFile" summary="Document Format Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">1</td>
+            <td scope="row">10-K</td>
+            <td scope="row"><a href="/ix?doc=/Archives/edgar/data/51143/000005114324000012/ibm-20231231.htm">ibm-20231231.htm</a> &nbsp;&nbsp;<span style="color: green">iXBRL</span></td>
+            <td scope="row">10-K</td>
+            <td scope="row">1163520</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">2</td>
+            <td scope="row">EX-4.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41.htm">ibm-20231231x10kex41.htm</a></td>
+            <td scope="row">EX-4.1</td>
+            <td scope="row">306513</td>
+         </tr>
+         <tr>
+            <td scope="row">3</td>
+            <td scope="row">EX-10.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex101.htm">ibm-20231231x10kex101.htm</a></td>
+            <td scope="row">EX-10.1</td>
+            <td scope="row">2552</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">4</td>
+            <td scope="row">EX-10.2</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102.htm">ibm-20231231x10kex102.htm</a></td>
+            <td scope="row">EX-10.2</td>
+            <td scope="row">187568</td>
+         </tr>
+         <tr>
+            <td scope="row">5</td>
+            <td scope="row">EX-13</td>
+            <td scope="row"><a href="/ix?doc=/Archives/edgar/data/51143/000005114324000012/ibm-20231231_d2.htm">ibm-20231231_d2.htm</a> &nbsp;&nbsp;<span style="color: green">iXBRL</span></td>
+            <td scope="row">EX-13</td>
+            <td scope="row">4717634</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">6</td>
+            <td scope="row">EX-21</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex21.htm">ibm-20231231x10kex21.htm</a></td>
+            <td scope="row">EX-21</td>
+            <td scope="row">105369</td>
+         </tr>
+         <tr>
+            <td scope="row">7</td>
+            <td scope="row">EX-23.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex231.htm">ibm-20231231x10kex231.htm</a></td>
+            <td scope="row">EX-23.1</td>
+            <td scope="row">2961</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">8</td>
+            <td scope="row">EX-24.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex241.htm">ibm-20231231x10kex241.htm</a></td>
+            <td scope="row">EX-24.1</td>
+            <td scope="row">50702</td>
+         </tr>
+         <tr>
+            <td scope="row">9</td>
+            <td scope="row">EX-24.2</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex242.htm">ibm-20231231x10kex242.htm</a></td>
+            <td scope="row">EX-24.2</td>
+            <td scope="row">1806</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">10</td>
+            <td scope="row">EX-31.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex311.htm">ibm-20231231x10kex311.htm</a></td>
+            <td scope="row">EX-31.1</td>
+            <td scope="row">9896</td>
+         </tr>
+         <tr>
+            <td scope="row">11</td>
+            <td scope="row">EX-31.2</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex312.htm">ibm-20231231x10kex312.htm</a></td>
+            <td scope="row">EX-31.2</td>
+            <td scope="row">9925</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">12</td>
+            <td scope="row">EX-32.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex321.htm">ibm-20231231x10kex321.htm</a></td>
+            <td scope="row">EX-32.1</td>
+            <td scope="row">4964</td>
+         </tr>
+         <tr>
+            <td scope="row">13</td>
+            <td scope="row">EX-32.2</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex322.htm">ibm-20231231x10kex322.htm</a></td>
+            <td scope="row">EX-32.2</td>
+            <td scope="row">5002</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">14</td>
+            <td scope="row">EX-97</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex97.htm">ibm-20231231x10kex97.htm</a></td>
+            <td scope="row">EX-97</td>
+            <td scope="row">12585</td>
+         </tr>
+         <tr>
+            <td scope="row">20</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231_g1.gif">ibm-20231231_g1.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">78888</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">21</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231_g2.jpg">ibm-20231231_g2.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">35706</td>
+         </tr>
+         <tr>
+            <td scope="row">22</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102001.jpg">ibm-20231231x10kex102001.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">43199</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">23</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102002.jpg">ibm-20231231x10kex102002.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">207600</td>
+         </tr>
+         <tr>
+            <td scope="row">24</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102003.jpg">ibm-20231231x10kex102003.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">166297</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">25</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102004.jpg">ibm-20231231x10kex102004.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">243309</td>
+         </tr>
+         <tr>
+            <td scope="row">26</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102005.jpg">ibm-20231231x10kex102005.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">149052</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">27</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102006.jpg">ibm-20231231x10kex102006.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">223813</td>
+         </tr>
+         <tr>
+            <td scope="row">28</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102007.jpg">ibm-20231231x10kex102007.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">233707</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">29</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102008.jpg">ibm-20231231x10kex102008.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">223009</td>
+         </tr>
+         <tr>
+            <td scope="row">30</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102009.jpg">ibm-20231231x10kex102009.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">204686</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">31</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102010.jpg">ibm-20231231x10kex102010.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">256384</td>
+         </tr>
+         <tr>
+            <td scope="row">32</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102011.jpg">ibm-20231231x10kex102011.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">153095</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">33</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102012.jpg">ibm-20231231x10kex102012.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">224502</td>
+         </tr>
+         <tr>
+            <td scope="row">34</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102013.jpg">ibm-20231231x10kex102013.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">256477</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">35</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102014.jpg">ibm-20231231x10kex102014.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">246112</td>
+         </tr>
+         <tr>
+            <td scope="row">36</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102015.jpg">ibm-20231231x10kex102015.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">114443</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">37</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102016.jpg">ibm-20231231x10kex102016.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">189815</td>
+         </tr>
+         <tr>
+            <td scope="row">38</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102017.jpg">ibm-20231231x10kex102017.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">230689</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">39</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102018.jpg">ibm-20231231x10kex102018.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">185458</td>
+         </tr>
+         <tr>
+            <td scope="row">40</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102019.jpg">ibm-20231231x10kex102019.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">215055</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">41</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102020.jpg">ibm-20231231x10kex102020.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">164653</td>
+         </tr>
+         <tr>
+            <td scope="row">42</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102021.jpg">ibm-20231231x10kex102021.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">199974</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">43</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102022.jpg">ibm-20231231x10kex102022.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">237250</td>
+         </tr>
+         <tr>
+            <td scope="row">44</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102023.jpg">ibm-20231231x10kex102023.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">237229</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">45</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102024.jpg">ibm-20231231x10kex102024.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">220817</td>
+         </tr>
+         <tr>
+            <td scope="row">46</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102025.jpg">ibm-20231231x10kex102025.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">81977</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">47</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102026.jpg">ibm-20231231x10kex102026.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">256643</td>
+         </tr>
+         <tr>
+            <td scope="row">48</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102027.jpg">ibm-20231231x10kex102027.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">244764</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">49</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102028.jpg">ibm-20231231x10kex102028.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">150478</td>
+         </tr>
+         <tr>
+            <td scope="row">50</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102029.jpg">ibm-20231231x10kex102029.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">105444</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">51</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102030.jpg">ibm-20231231x10kex102030.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">217860</td>
+         </tr>
+         <tr>
+            <td scope="row">52</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102031.jpg">ibm-20231231x10kex102031.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">198001</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">53</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102032.jpg">ibm-20231231x10kex102032.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">260069</td>
+         </tr>
+         <tr>
+            <td scope="row">54</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102033.jpg">ibm-20231231x10kex102033.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">233824</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">55</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102034.jpg">ibm-20231231x10kex102034.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">207569</td>
+         </tr>
+         <tr>
+            <td scope="row">56</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102035.jpg">ibm-20231231x10kex102035.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">247808</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">57</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102036.jpg">ibm-20231231x10kex102036.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">199504</td>
+         </tr>
+         <tr>
+            <td scope="row">58</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102037.jpg">ibm-20231231x10kex102037.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">192236</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">59</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102038.jpg">ibm-20231231x10kex102038.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">122647</td>
+         </tr>
+         <tr>
+            <td scope="row">60</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102039.jpg">ibm-20231231x10kex102039.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">259880</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">61</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102040.jpg">ibm-20231231x10kex102040.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">179935</td>
+         </tr>
+         <tr>
+            <td scope="row">62</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102041.jpg">ibm-20231231x10kex102041.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">184374</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">63</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102042.jpg">ibm-20231231x10kex102042.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">52700</td>
+         </tr>
+         <tr>
+            <td scope="row">64</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102043.jpg">ibm-20231231x10kex102043.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">244296</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">65</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102044.jpg">ibm-20231231x10kex102044.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">186730</td>
+         </tr>
+         <tr>
+            <td scope="row">66</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102045.jpg">ibm-20231231x10kex102045.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">212624</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">67</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102046.jpg">ibm-20231231x10kex102046.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">119627</td>
+         </tr>
+         <tr>
+            <td scope="row">68</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102047.jpg">ibm-20231231x10kex102047.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">216750</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">69</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102048.jpg">ibm-20231231x10kex102048.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">212068</td>
+         </tr>
+         <tr>
+            <td scope="row">70</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102049.jpg">ibm-20231231x10kex102049.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">202155</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">71</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102050.jpg">ibm-20231231x10kex102050.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">243634</td>
+         </tr>
+         <tr>
+            <td scope="row">72</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102051.jpg">ibm-20231231x10kex102051.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">124378</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">73</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102052.jpg">ibm-20231231x10kex102052.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">291366</td>
+         </tr>
+         <tr>
+            <td scope="row">74</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102053.jpg">ibm-20231231x10kex102053.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">249064</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">75</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102054.jpg">ibm-20231231x10kex102054.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">239829</td>
+         </tr>
+         <tr>
+            <td scope="row">76</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102055.jpg">ibm-20231231x10kex102055.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">106238</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">77</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102056.jpg">ibm-20231231x10kex102056.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">231458</td>
+         </tr>
+         <tr>
+            <td scope="row">78</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102057.jpg">ibm-20231231x10kex102057.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">98252</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">79</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102058.jpg">ibm-20231231x10kex102058.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">251595</td>
+         </tr>
+         <tr>
+            <td scope="row">80</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102059.jpg">ibm-20231231x10kex102059.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">270327</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">81</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102060.jpg">ibm-20231231x10kex102060.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">207553</td>
+         </tr>
+         <tr>
+            <td scope="row">82</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102061.jpg">ibm-20231231x10kex102061.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">218507</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">83</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102062.jpg">ibm-20231231x10kex102062.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">223224</td>
+         </tr>
+         <tr>
+            <td scope="row">84</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102063.jpg">ibm-20231231x10kex102063.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">119224</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">85</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102064.jpg">ibm-20231231x10kex102064.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">183383</td>
+         </tr>
+         <tr>
+            <td scope="row">86</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102065.jpg">ibm-20231231x10kex102065.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">200296</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">87</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102066.jpg">ibm-20231231x10kex102066.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">72583</td>
+         </tr>
+         <tr>
+            <td scope="row">88</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102067.jpg">ibm-20231231x10kex102067.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">202292</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">89</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102068.jpg">ibm-20231231x10kex102068.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">169165</td>
+         </tr>
+         <tr>
+            <td scope="row">90</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102069.jpg">ibm-20231231x10kex102069.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">238650</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">91</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102070.jpg">ibm-20231231x10kex102070.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">221865</td>
+         </tr>
+         <tr>
+            <td scope="row">92</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102071.jpg">ibm-20231231x10kex102071.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">239183</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">93</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102072.jpg">ibm-20231231x10kex102072.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">266165</td>
+         </tr>
+         <tr>
+            <td scope="row">94</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102073.jpg">ibm-20231231x10kex102073.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">212571</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">95</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102074.jpg">ibm-20231231x10kex102074.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">239593</td>
+         </tr>
+         <tr>
+            <td scope="row">96</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102075.jpg">ibm-20231231x10kex102075.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">173202</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">97</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex102076.jpg">ibm-20231231x10kex102076.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">37203</td>
+         </tr>
+         <tr>
+            <td scope="row">98</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41001.jpg">ibm-20231231x10kex41001.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">169237</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">99</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41002.jpg">ibm-20231231x10kex41002.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">218927</td>
+         </tr>
+         <tr>
+            <td scope="row">100</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41003.jpg">ibm-20231231x10kex41003.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">300393</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">101</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41004.jpg">ibm-20231231x10kex41004.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">193835</td>
+         </tr>
+         <tr>
+            <td scope="row">102</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41005.jpg">ibm-20231231x10kex41005.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">179191</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">103</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41006.jpg">ibm-20231231x10kex41006.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">171473</td>
+         </tr>
+         <tr>
+            <td scope="row">104</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41007.jpg">ibm-20231231x10kex41007.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">196276</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">105</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41008.jpg">ibm-20231231x10kex41008.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">212486</td>
+         </tr>
+         <tr>
+            <td scope="row">106</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41009.jpg">ibm-20231231x10kex41009.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">75124</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">107</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41010.jpg">ibm-20231231x10kex41010.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">86652</td>
+         </tr>
+         <tr>
+            <td scope="row">108</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41011.jpg">ibm-20231231x10kex41011.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">206363</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">109</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41012.jpg">ibm-20231231x10kex41012.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">166054</td>
+         </tr>
+         <tr>
+            <td scope="row">110</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41013.jpg">ibm-20231231x10kex41013.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">170695</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">111</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41014.jpg">ibm-20231231x10kex41014.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">187219</td>
+         </tr>
+         <tr>
+            <td scope="row">112</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41015.jpg">ibm-20231231x10kex41015.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">207739</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">113</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41016.jpg">ibm-20231231x10kex41016.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">174103</td>
+         </tr>
+         <tr>
+            <td scope="row">114</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41017.jpg">ibm-20231231x10kex41017.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">181199</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">115</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41018.jpg">ibm-20231231x10kex41018.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">180667</td>
+         </tr>
+         <tr>
+            <td scope="row">116</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41019.jpg">ibm-20231231x10kex41019.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">204903</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">117</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41020.jpg">ibm-20231231x10kex41020.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">157527</td>
+         </tr>
+         <tr>
+            <td scope="row">118</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41021.jpg">ibm-20231231x10kex41021.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">189395</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">119</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41022.jpg">ibm-20231231x10kex41022.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">174368</td>
+         </tr>
+         <tr>
+            <td scope="row">120</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41023.jpg">ibm-20231231x10kex41023.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">180925</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">121</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41024.jpg">ibm-20231231x10kex41024.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">164809</td>
+         </tr>
+         <tr>
+            <td scope="row">122</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41025.jpg">ibm-20231231x10kex41025.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">196362</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">123</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41026.jpg">ibm-20231231x10kex41026.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">174013</td>
+         </tr>
+         <tr>
+            <td scope="row">124</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41027.jpg">ibm-20231231x10kex41027.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">162971</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">125</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41028.jpg">ibm-20231231x10kex41028.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">178878</td>
+         </tr>
+         <tr>
+            <td scope="row">126</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41029.jpg">ibm-20231231x10kex41029.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">160320</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">127</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41030.jpg">ibm-20231231x10kex41030.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">200955</td>
+         </tr>
+         <tr>
+            <td scope="row">128</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41031.jpg">ibm-20231231x10kex41031.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">157372</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">129</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41032.jpg">ibm-20231231x10kex41032.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">185007</td>
+         </tr>
+         <tr>
+            <td scope="row">130</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41033.jpg">ibm-20231231x10kex41033.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">150682</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">131</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41034.jpg">ibm-20231231x10kex41034.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">297629</td>
+         </tr>
+         <tr>
+            <td scope="row">132</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41035.jpg">ibm-20231231x10kex41035.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">45863</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">133</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41036.jpg">ibm-20231231x10kex41036.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">157435</td>
+         </tr>
+         <tr>
+            <td scope="row">134</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41037.jpg">ibm-20231231x10kex41037.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">184977</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">135</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41038.jpg">ibm-20231231x10kex41038.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">163716</td>
+         </tr>
+         <tr>
+            <td scope="row">136</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41039.jpg">ibm-20231231x10kex41039.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">200114</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">137</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41040.jpg">ibm-20231231x10kex41040.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">163028</td>
+         </tr>
+         <tr>
+            <td scope="row">138</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41041.jpg">ibm-20231231x10kex41041.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">181050</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">139</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41042.jpg">ibm-20231231x10kex41042.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">227022</td>
+         </tr>
+         <tr>
+            <td scope="row">140</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41043.jpg">ibm-20231231x10kex41043.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">230196</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">141</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41044.jpg">ibm-20231231x10kex41044.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">234551</td>
+         </tr>
+         <tr>
+            <td scope="row">142</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41045.jpg">ibm-20231231x10kex41045.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">134030</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">143</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41046.jpg">ibm-20231231x10kex41046.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">201955</td>
+         </tr>
+         <tr>
+            <td scope="row">144</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41047.jpg">ibm-20231231x10kex41047.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">157438</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">145</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41048.jpg">ibm-20231231x10kex41048.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">189405</td>
+         </tr>
+         <tr>
+            <td scope="row">146</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41049.jpg">ibm-20231231x10kex41049.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">224824</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">147</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41050.jpg">ibm-20231231x10kex41050.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">264044</td>
+         </tr>
+         <tr>
+            <td scope="row">148</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41051.jpg">ibm-20231231x10kex41051.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">225556</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">149</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41052.jpg">ibm-20231231x10kex41052.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">260689</td>
+         </tr>
+         <tr>
+            <td scope="row">150</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41053.jpg">ibm-20231231x10kex41053.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">192587</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">151</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41054.jpg">ibm-20231231x10kex41054.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">155811</td>
+         </tr>
+         <tr>
+            <td scope="row">152</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41055.jpg">ibm-20231231x10kex41055.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">196463</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">153</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41056.jpg">ibm-20231231x10kex41056.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">219946</td>
+         </tr>
+         <tr>
+            <td scope="row">154</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41057.jpg">ibm-20231231x10kex41057.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">240862</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">155</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41058.jpg">ibm-20231231x10kex41058.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">155815</td>
+         </tr>
+         <tr>
+            <td scope="row">156</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41059.jpg">ibm-20231231x10kex41059.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">204138</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">157</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41060.jpg">ibm-20231231x10kex41060.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">223521</td>
+         </tr>
+         <tr>
+            <td scope="row">158</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41061.jpg">ibm-20231231x10kex41061.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">216651</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">159</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41062.jpg">ibm-20231231x10kex41062.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">244843</td>
+         </tr>
+         <tr>
+            <td scope="row">160</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41063.jpg">ibm-20231231x10kex41063.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">228968</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">161</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41064.jpg">ibm-20231231x10kex41064.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">234398</td>
+         </tr>
+         <tr>
+            <td scope="row">162</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41065.jpg">ibm-20231231x10kex41065.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">173669</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">163</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41066.jpg">ibm-20231231x10kex41066.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">279941</td>
+         </tr>
+         <tr>
+            <td scope="row">164</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41067.jpg">ibm-20231231x10kex41067.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">288641</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">165</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41068.jpg">ibm-20231231x10kex41068.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">206226</td>
+         </tr>
+         <tr>
+            <td scope="row">166</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41069.jpg">ibm-20231231x10kex41069.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">259698</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">167</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41070.jpg">ibm-20231231x10kex41070.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">197362</td>
+         </tr>
+         <tr>
+            <td scope="row">168</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41071.jpg">ibm-20231231x10kex41071.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">206150</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">169</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41072.jpg">ibm-20231231x10kex41072.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">261389</td>
+         </tr>
+         <tr>
+            <td scope="row">170</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41073.jpg">ibm-20231231x10kex41073.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">192824</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">171</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41074.jpg">ibm-20231231x10kex41074.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">206205</td>
+         </tr>
+         <tr>
+            <td scope="row">172</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41075.jpg">ibm-20231231x10kex41075.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">257240</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">173</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41076.jpg">ibm-20231231x10kex41076.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">300275</td>
+         </tr>
+         <tr>
+            <td scope="row">174</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41077.jpg">ibm-20231231x10kex41077.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">48001</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">175</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41078.jpg">ibm-20231231x10kex41078.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">206211</td>
+         </tr>
+         <tr>
+            <td scope="row">176</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41079.jpg">ibm-20231231x10kex41079.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">231600</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">177</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41080.jpg">ibm-20231231x10kex41080.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">120719</td>
+         </tr>
+         <tr>
+            <td scope="row">178</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41081.jpg">ibm-20231231x10kex41081.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">180141</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">179</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41082.jpg">ibm-20231231x10kex41082.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">171647</td>
+         </tr>
+         <tr>
+            <td scope="row">180</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41083.jpg">ibm-20231231x10kex41083.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">196821</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">181</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41084.jpg">ibm-20231231x10kex41084.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">155235</td>
+         </tr>
+         <tr>
+            <td scope="row">182</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41085.jpg">ibm-20231231x10kex41085.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">196844</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">183</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41086.jpg">ibm-20231231x10kex41086.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">233571</td>
+         </tr>
+         <tr>
+            <td scope="row">184</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41087.jpg">ibm-20231231x10kex41087.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">263017</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">185</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41088.jpg">ibm-20231231x10kex41088.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">188522</td>
+         </tr>
+         <tr>
+            <td scope="row">186</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41089.jpg">ibm-20231231x10kex41089.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">191073</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">187</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41090.jpg">ibm-20231231x10kex41090.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">101182</td>
+         </tr>
+         <tr>
+            <td scope="row">188</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41091.jpg">ibm-20231231x10kex41091.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">222201</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">189</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41092.jpg">ibm-20231231x10kex41092.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">151472</td>
+         </tr>
+         <tr>
+            <td scope="row">190</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41093.jpg">ibm-20231231x10kex41093.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">217490</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">191</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231x10kex41094.jpg">ibm-20231231x10kex41094.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">213762</td>
+         </tr>
+         <tr>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">Complete submission text file</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/0000051143-24-000012.txt">0000051143-24-000012.txt</a></td>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">79490429</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Data Files</p>
+      <table class="tableFile" summary="Data Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">15</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231.xsd">ibm-20231231.xsd</a></td>
+            <td scope="row">EX-101.SCH</td>
+            <td scope="row">179266</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">16</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231_cal.xml">ibm-20231231_cal.xml</a></td>
+            <td scope="row">EX-101.CAL</td>
+            <td scope="row">213898</td>
+         </tr>
+         <tr>
+            <td scope="row">17</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231_def.xml">ibm-20231231_def.xml</a></td>
+            <td scope="row">EX-101.DEF</td>
+            <td scope="row">1081589</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">18</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231_lab.xml">ibm-20231231_lab.xml</a></td>
+            <td scope="row">EX-101.LAB</td>
+            <td scope="row">2027389</td>
+         </tr>
+         <tr>
+            <td scope="row">19</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231_pre.xml">ibm-20231231_pre.xml</a></td>
+            <td scope="row">EX-101.PRE</td>
+            <td scope="row">1516679</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">378</td>
+            <td scope="row"><b>EXTRACTED</b> XBRL INSTANCE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/51143/000005114324000012/ibm-20231231_htm.xml">ibm-20231231_htm.xml</a></td>
+            <td scope="row">XML</td>
+            <td scope="row">7617360</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<!-- END DOCUMENT DIV -->
+<!-- START FILER DIV -->
+<div id="filerDiv">
+   <div class="mailer">Mailing Address
+      <span class="mailerAddress">1 NEW ORCHARD RD</span>
+      <span class="mailerAddress">
+ARMONK NY 10504      </span>
+   </div>
+   <div class="mailer">Business Address
+      <span class="mailerAddress">1 NEW ORCHARD ROAD</span>
+      <span class="mailerAddress">
+ARMONK NY 10504      </span>
+      <span class="mailerAddress">9144991900</span>
+   </div>
+<div class="companyInfo">
+  <span class="companyName">INTERNATIONAL BUSINESS MACHINES CORP (Filer)
+ <acronym title="Central Index Key">CIK</acronym>: <a href="/cgi-bin/browse-edgar?CIK=0000051143&amp;action=getcompany">0000051143 (see all company filings)</a></span>
+<p class="identInfo"><acronym title="Internal Revenue Service Number">IRS No.</acronym>: <strong>130871985</strong> | State of Incorp.: <strong>NY</strong> | Fiscal Year End: <strong>1231</strong><br />Type: <strong>10-K</strong> | Act: <strong>34</strong> | File No.: <a href="/cgi-bin/browse-edgar?filenum=001-02360&amp;action=getcompany"><strong>001-02360</strong></a> | Film No.: <strong>24673497</strong><br /><acronym title="Standard Industrial Code">SIC</acronym>: <b><a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=3570&amp;owner=include">3570</a></b> Computer &amp; office Equipment<br />(CF Office: 06 Technology)</p>
+</div>
+<div class="clear"></div>
+</div>
+<!-- END FILER DIV -->
+</div>

@@ -1,0 +1,402 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Last-Modified" content="Mon, 26 Feb 2024 21:06:55 GMT" />
+<title>EDGAR Filing Documents for 0001628280-24-006850</title>
+<link rel="stylesheet" type="text/css" href="/include/interactive.css" />
+</head>
+<body style="margin: 0">
+<!-- SEC Web Analytics - For information please visit: https://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+<noscript><div style="color:red; font-weight:bold; text-align:center;">This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</div></noscript>
+<!-- BEGIN BANNER -->
+<div id="headerTop">
+   <div id="Nav"><a href="/index.htm">Home</a> | <a href="/cgi-bin/browse-edgar?action=getcurrent">Latest Filings</a> | <a href="javascript:history.back()">Previous Page</a></div>
+   <div id="seal"><a href="/index.htm"><img src="/images/sealTop.gif" alt="SEC Seal" border="0" /></a></div>
+   <div id="secWordGraphic"><img src="/images/bannerTitle.gif" alt="SEC Banner" /></div>
+</div>
+<div id="headerBottom">
+   <div id="searchHome"><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a></div>
+   <div id="PageTitle">Filing Detail</div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="/index.htm">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+<!-- START FILING DIV -->
+<div id="formDiv">
+   <div id="formHeader">
+      <div id="formName">
+         <strong>Form 10-K</strong> - Annual report [Section 13 and 15(d), not S-K Item 405]: 
+      </div>
+      <div id="secNum">
+         <strong><acronym title="Securities and Exchange Commission">SEC</acronym> Accession <acronym title="Number">No.</acronym></strong> 0001628280-24-006850
+      </div>
+   </div>
+   <div class="formContent">
+   
+      <div class="formGrouping">
+         <div class="infoHead">Filing Date</div>
+         <div class="info">2024-02-26</div>
+         <div class="infoHead">Accepted</div>
+         <div class="info">2024-02-26 16:06:55</div>
+         <div class="infoHead">Documents</div>
+         <div class="info">162</div>
+      </div>
+      <div class="formGrouping">
+         <div class="infoHead">Period of Report</div>
+         <div class="info">2023-12-31</div>
+      </div>
+      <div style="clear:both"></div>
+   </div>
+</div>
+<!-- END FILING DIV -->
+<!-- START DOCUMENT DIV -->
+<div style="margin: 10px 0px 10px 0px; border: solid 1px #3F509D; background-color: #F5F5EB;">
+   <div style="padding: 4px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden" id="seriesDiv">
+      <a href="/cgi-bin/viewer?action=view&amp;cik=310158&amp;accession_number=0001628280-24-006850&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a>
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Document Format Files</p>
+      <table class="tableFile" summary="Document Format Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">1</td>
+            <td scope="row">10-K</td>
+            <td scope="row"><a href="/ix?doc=/Archives/edgar/data/310158/000162828024006850/mrk-20231231.htm">mrk-20231231.htm</a> &nbsp;&nbsp;<span style="color: green">iXBRL</span></td>
+            <td scope="row">10-K</td>
+            <td scope="row">5080817</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">2</td>
+            <td scope="row">EX-10.7 FORM OF STOCK OPTION TERMS FOR 2017 ANNUAL NON-QUALIFIED OPTION GRANTS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex107-2017annualnqsotermsc.htm">ex107-2017annualnqsotermsc.htm</a></td>
+            <td scope="row">EX-10.7</td>
+            <td scope="row">34962</td>
+         </tr>
+         <tr>
+            <td scope="row">3</td>
+            <td scope="row">EX-10.8 FORM OF STOCK OPTION TERMS FOR 2019 ANNUAL NON-QUALIFIED OPTION GRANTS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex108-2019annualnqsotermsa.htm">ex108-2019annualnqsotermsa.htm</a></td>
+            <td scope="row">EX-10.8</td>
+            <td scope="row">43881</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">4</td>
+            <td scope="row">EX-10.13 MERCK &amp; CO., INC. U.S. SEPARATION BENEFITS PLAN</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1013-plansepmrk2019.htm">ex1013-plansepmrk2019.htm</a></td>
+            <td scope="row">EX-10.13</td>
+            <td scope="row">503445</td>
+         </tr>
+         <tr>
+            <td scope="row">5</td>
+            <td scope="row">EX-10.21 2020 ANNUAL NQSO TERMS AND CONDITIONS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1021-2020annualnqsoterms.htm">ex1021-2020annualnqsoterms.htm</a></td>
+            <td scope="row">EX-10.21</td>
+            <td scope="row">41031</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">6</td>
+            <td scope="row">EX-10.22 2020 ANNUAL RSU TERMS AND CONDITIONS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1022-2020annualrsutermsa.htm">ex1022-2020annualrsutermsa.htm</a></td>
+            <td scope="row">EX-10.22</td>
+            <td scope="row">41590</td>
+         </tr>
+         <tr>
+            <td scope="row">7</td>
+            <td scope="row">EX-10.23 2021 ANNUAL PSU TERMS AND CONDITIONS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1023-2021annualpsuterms.htm">ex1023-2021annualpsuterms.htm</a></td>
+            <td scope="row">EX-10.23</td>
+            <td scope="row">80592</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">8</td>
+            <td scope="row">EX-10.24 2021 RSU GRANT TERMS UNDER MERCK CO INC 2019 ISP</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1024-2021specialretentio.htm">ex1024-2021specialretentio.htm</a></td>
+            <td scope="row">EX-10.24</td>
+            <td scope="row">40187</td>
+         </tr>
+         <tr>
+            <td scope="row">9</td>
+            <td scope="row">EX-10.25 2022 ANNUAL RSU TERMS AND CONDITIONS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1025-2022annualrsutermsa.htm">ex1025-2022annualrsutermsa.htm</a></td>
+            <td scope="row">EX-10.25</td>
+            <td scope="row">320481</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">10</td>
+            <td scope="row">EX-10.26 2022 ANNUAL PSU TERMS AND CONDITIONS AUGUST (GUINDO)</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1026-2022annualpsutermsa.htm">ex1026-2022annualpsutermsa.htm</a></td>
+            <td scope="row">EX-10.26</td>
+            <td scope="row">196248</td>
+         </tr>
+         <tr>
+            <td scope="row">11</td>
+            <td scope="row">EX-10.27 2023 ANNUAL NQSO TERMS AND CONDITIONS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1027-2023annualnqsoterms.htm">ex1027-2023annualnqsoterms.htm</a></td>
+            <td scope="row">EX-10.27</td>
+            <td scope="row">152265</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">12</td>
+            <td scope="row">EX-10.28 2022 ANNUAL PSU TERMS AND CONDITIONS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1028-2022annualpsutermsa.htm">ex1028-2022annualpsutermsa.htm</a></td>
+            <td scope="row">EX-10.28</td>
+            <td scope="row">100770</td>
+         </tr>
+         <tr>
+            <td scope="row">13</td>
+            <td scope="row">EX-10.29 2023 ANNUAL PSU TERMS AND CONDITIONS</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1029-2023annualpsutermsa.htm">ex1029-2023annualpsutermsa.htm</a></td>
+            <td scope="row">EX-10.29</td>
+            <td scope="row">189567</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">14</td>
+            <td scope="row">EX-10.30 OFFER LETTER (GUINDO)</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex1030-mrkchirfiguindooffe.htm">ex1030-mrkchirfiguindooffe.htm</a></td>
+            <td scope="row">EX-10.30</td>
+            <td scope="row">47370</td>
+         </tr>
+         <tr>
+            <td scope="row">15</td>
+            <td scope="row">EX-21 SUBSIDIARY LIST</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex21-subsidiarylistasof123.htm">ex21-subsidiarylistasof123.htm</a></td>
+            <td scope="row">EX-21</td>
+            <td scope="row">312516</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">16</td>
+            <td scope="row">EX-23 CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex23-consentofindependentr.htm">ex23-consentofindependentr.htm</a></td>
+            <td scope="row">EX-23</td>
+            <td scope="row">2323</td>
+         </tr>
+         <tr>
+            <td scope="row">17</td>
+            <td scope="row">EX-24.1 POWER OF ATTORNEY</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex241-powerofattorney.htm">ex241-powerofattorney.htm</a></td>
+            <td scope="row">EX-24.1</td>
+            <td scope="row">14715</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">18</td>
+            <td scope="row">EX-24.2 CERTIFICATION OF BOARD RESOLUTION</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex242-certificationofboard.htm">ex242-certificationofboard.htm</a></td>
+            <td scope="row">EX-24.2</td>
+            <td scope="row">6759</td>
+         </tr>
+         <tr>
+            <td scope="row">19</td>
+            <td scope="row">EX-31.1 RULE 13A-14(A)/15D-14(A) CERTIFICATION OF CEO</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex311-rule13ax14a15dx14ace.htm">ex311-rule13ax14a15dx14ace.htm</a></td>
+            <td scope="row">EX-31.1</td>
+            <td scope="row">8068</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">20</td>
+            <td scope="row">EX-31.2 RULE 13A-14(A)/15D-14(A) CERTIFICATION OF CFO</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex312-rule13ax14a15dx14ace.htm">ex312-rule13ax14a15dx14ace.htm</a></td>
+            <td scope="row">EX-31.2</td>
+            <td scope="row">8103</td>
+         </tr>
+         <tr>
+            <td scope="row">21</td>
+            <td scope="row">EX-32.1 SECTION 1350 CERTIFICATION OF CEO</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex321-section1350certifica.htm">ex321-section1350certifica.htm</a></td>
+            <td scope="row">EX-32.1</td>
+            <td scope="row">4057</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">22</td>
+            <td scope="row">EX-32.2 SECTION 1350 CERTIFICATION OF CFO</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex322-section1350certifica.htm">ex322-section1350certifica.htm</a></td>
+            <td scope="row">EX-32.2</td>
+            <td scope="row">3662</td>
+         </tr>
+         <tr>
+            <td scope="row">23</td>
+            <td scope="row">EX-97 MERCK RECOUPMENT POLICY</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/ex97-merckrecoupmentpolicy.htm">ex97-merckrecoupmentpolicy.htm</a></td>
+            <td scope="row">EX-97</td>
+            <td scope="row">19562</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">29</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g1.jpg">mrk-20231231_g1.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">137767</td>
+         </tr>
+         <tr>
+            <td scope="row">30</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g2.jpg">mrk-20231231_g2.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">82583</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">31</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g3.jpg">mrk-20231231_g3.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">28277</td>
+         </tr>
+         <tr>
+            <td scope="row">32</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g4.jpg">mrk-20231231_g4.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">24891</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">33</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g5.jpg">mrk-20231231_g5.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">24379</td>
+         </tr>
+         <tr>
+            <td scope="row">34</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g6.jpg">mrk-20231231_g6.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">25771</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">35</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g7.gif">mrk-20231231_g7.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">5605</td>
+         </tr>
+         <tr>
+            <td scope="row">36</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g8.jpg">mrk-20231231_g8.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">31485</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">37</td>
+            <td scope="row"></td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_g9.jpg">mrk-20231231_g9.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">17845</td>
+         </tr>
+         <tr>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">Complete submission text file</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/0001628280-24-006850.txt">0001628280-24-006850.txt</a></td>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">29075527</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<div id="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Data Files</p>
+      <table class="tableFile" summary="Data Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">24</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231.xsd">mrk-20231231.xsd</a></td>
+            <td scope="row">EX-101.SCH</td>
+            <td scope="row">126440</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">25</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_cal.xml">mrk-20231231_cal.xml</a></td>
+            <td scope="row">EX-101.CAL</td>
+            <td scope="row">192302</td>
+         </tr>
+         <tr>
+            <td scope="row">26</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_def.xml">mrk-20231231_def.xml</a></td>
+            <td scope="row">EX-101.DEF</td>
+            <td scope="row">800944</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">27</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_lab.xml">mrk-20231231_lab.xml</a></td>
+            <td scope="row">EX-101.LAB</td>
+            <td scope="row">1659744</td>
+         </tr>
+         <tr>
+            <td scope="row">28</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_pre.xml">mrk-20231231_pre.xml</a></td>
+            <td scope="row">EX-101.PRE</td>
+            <td scope="row">1172170</td>
+         </tr>
+         <tr class="blueRow">
+            <td scope="row">164</td>
+            <td scope="row"><b>EXTRACTED</b> XBRL INSTANCE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/310158/000162828024006850/mrk-20231231_htm.xml">mrk-20231231_htm.xml</a></td>
+            <td scope="row">XML</td>
+            <td scope="row">5809835</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<!-- END DOCUMENT DIV -->
+<!-- START FILER DIV -->
+<div id="filerDiv">
+   <div class="mailer">Mailing Address
+      <span class="mailerAddress">2000 GALLOPING HILL ROAD</span>
+      <span class="mailerAddress">
+KENILWORTH NJ 07033      </span>
+   </div>
+   <div class="mailer">Business Address
+      <span class="mailerAddress">2000 GALLOPING HILL ROAD</span>
+      <span class="mailerAddress">
+KENILWORTH NJ 07033      </span>
+      <span class="mailerAddress">908-740-4000</span>
+   </div>
+<div class="companyInfo">
+  <span class="companyName">Merck &amp; Co., Inc. (Filer)
+ <acronym title="Central Index Key">CIK</acronym>: <a href="/cgi-bin/browse-edgar?CIK=0000310158&amp;action=getcompany">0000310158 (see all company filings)</a></span>
+<p class="identInfo"><acronym title="Internal Revenue Service Number">IRS No.</acronym>: <strong>221918501</strong> | State of Incorp.: <strong>NJ</strong> | Fiscal Year End: <strong>1231</strong><br />Type: <strong>10-K</strong> | Act: <strong>34</strong> | File No.: <a href="/cgi-bin/browse-edgar?filenum=001-06571&amp;action=getcompany"><strong>001-06571</strong></a> | Film No.: <strong>24678716</strong><br /><acronym title="Standard Industrial Code">SIC</acronym>: <b><a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=2834&amp;owner=include">2834</a></b> Pharmaceutical Preparations<br />(CF Office: 03 Life Sciences)</p>
+</div>
+<div class="clear"></div>
+</div>
+<!-- END FILER DIV -->
+</div>
