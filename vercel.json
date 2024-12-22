@@ -1,19 +1,15 @@
 {
-    "version": 2,
-    "builds": [
+  "version": 2,
+  "builds": [
       {
-        "src": "path/to/wsgi.py",
-        "use": "@vercel/python",
-        "config": {
-          "maxLambdaSize": "50mb"
-        }
+          "src": "sec_scraper/wsgi.py",
+          "use": "@vercel/python"
       }
-    ],
-    "routes": [
+  ],
+  "routes": [
       {
-        "src": "/(.*)",
-        "dest": "path/to/wsgi.py"
+          "src": "/(.*)",
+          "dest": "sec_scraper/wsgi.py"
       }
-    ]
-  }
-  
+  ]
+}
