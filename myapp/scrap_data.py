@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import os
-from myapp.models import *
 
 
 # Create a directory to store the filings
@@ -36,7 +35,7 @@ def download_sec_filings(cik, num_filings=5):
             file_path = f"sec_filings/{cik}/filing_{idx}.txt"
             with open(file_path, "w", encoding="utf-8") as file:
                 file.write(filing_response.text)
-            Company.objects.filter(cik=cik).update(downloaded = True)
+            #Company.objects.filter(cik=cik).update(downloaded = True)
             print(f"Downloaded filing {idx}: {file_path}")
         else:
             print(f"Failed to download filing {idx}")

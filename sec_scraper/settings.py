@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-vz2v7#u*l3n1&2q*ib0gh#=3@9ez1i=9o^jrgv9!fvmo^ox4+z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = ['.vercel.app','127.0.0.1']
 ASGI_APPLICATION = 'my_project.asgi.application'
 
 
@@ -83,9 +83,10 @@ import os
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),  # Ensure this is correct
+        'NAME': ':memory:',  # In-memory database
     }
 }
+
 
 
 # Password validation
