@@ -23,8 +23,7 @@ def analyze_filing(file_path):
         "messages": [
             {
                 "role": "user",
-                "content": "hi You are an expert in financial analysis. Analyze the following SEC 10-K filing "
-                "and summarize key insights, risks, and financial trends and store main values in key value pairs in json and write to seperate json:\n\n the key value pairs should be in following format "+filing_text
+                "content": "hi You are an expert in financial analysis. Analyze the following SEC 10-K filing and summarize key insights, risks, and financial trends and store main values in key value pairs in json and write to seperate json:\n\n the key value pairs should be in following format mainly risks "+filing_text
             }
         ]
     }
