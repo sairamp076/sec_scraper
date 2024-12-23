@@ -5,10 +5,10 @@ import json
 import re
 
 # Replace with your API key
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "VznREyhuYFjCooWQmKv4jjLuZjkEVnrH"
 
 def analyze_filing(file_path):
-    url = "https://api.groq.com/openai/v1/chat/completions"
+    url = "https://api.mistral.ai/v1/chat/completions"
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {GROQ_API_KEY}"
@@ -18,7 +18,7 @@ def analyze_filing(file_path):
         filing_text = file.read()
 
     data = {
-        "model": "llama3-8b-8192",
+        "model": "mistral-small-latest",
         "response_format" : { "type": "json_object" }  ,
         "messages": [
             {
