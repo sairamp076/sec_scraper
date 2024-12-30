@@ -1,4 +1,5 @@
 """
+.
 URL configuration for sec_scraper project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
